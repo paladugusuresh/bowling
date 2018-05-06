@@ -1,0 +1,11 @@
+c:\users\paladugu\documents\visual studio 2017\Projects\Bowling.Score\Bowling.Score.Specs\bin\Debug\Bowling.Score.Specs.dll
+c:\users\paladugu\documents\visual studio 2017\Projects\Bowling.Score\Bowling.Score.Specs\bin\Debug\Bowling.Score.Specs.pdb
+c:\users\paladugu\documents\visual studio 2017\Projects\Bowling.Score\Bowling.Score.Specs\bin\Debug\Bowling.Score.dll
+c:\users\paladugu\documents\visual studio 2017\Projects\Bowling.Score\Bowling.Score.Specs\bin\Debug\nunit.framework.dll
+c:\users\paladugu\documents\visual studio 2017\Projects\Bowling.Score\Bowling.Score.Specs\bin\Debug\Bowling.Score.pdb
+c:\users\paladugu\documents\visual studio 2017\Projects\Bowling.Score\Bowling.Score.Specs\bin\Debug\nunit.framework.pdb
+c:\users\paladugu\documents\visual studio 2017\Projects\Bowling.Score\Bowling.Score.Specs\bin\Debug\nunit.framework.xml
+c:\users\paladugu\documents\visual studio 2017\Projects\Bowling.Score\Bowling.Score.Specs\obj\Debug\Bowling.Score.Specs.csprojResolveAssemblyReference.cache
+c:\users\paladugu\documents\visual studio 2017\Projects\Bowling.Score\Bowling.Score.Specs\obj\Debug\Bowling.Score.Specs.csproj.CoreCompileInputs.cache
+c:\users\paladugu\documents\visual studio 2017\Projects\Bowling.Score\Bowling.Score.Specs\obj\Debug\Bowling.Score.Specs.dll
+c:\users\paladugu\documents\visual studio 2017\Projects\Bowling.Score\Bowling.Score.Specs\obj\Debug\Bowling.Score.Specs.pdb

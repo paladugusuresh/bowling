@@ -1,0 +1,5 @@
+c:\users\paladugu\documents\visual studio 2017\Projects\Bowling.Score\Bowling.Score\bin\Debug\Bowling.Score.dll
+c:\users\paladugu\documents\visual studio 2017\Projects\Bowling.Score\Bowling.Score\bin\Debug\Bowling.Score.pdb
+c:\users\paladugu\documents\visual studio 2017\Projects\Bowling.Score\Bowling.Score\obj\Debug\Bowling.Score.csproj.CoreCompileInputs.cache
+c:\users\paladugu\documents\visual studio 2017\Projects\Bowling.Score\Bowling.Score\obj\Debug\Bowling.Score.dll
+c:\users\paladugu\documents\visual studio 2017\Projects\Bowling.Score\Bowling.Score\obj\Debug\Bowling.Score.pdb
